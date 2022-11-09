@@ -13,15 +13,15 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/spratham](https://www.github.com/spratham)
 
-- 📫 Reach me at **saumitrashukla23@gmail.com**
+- 📫 Reach me at **Pratham6388@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-PPzny-8DHz4j_n411VWtzc7tawffIz2/view?usp=sharing](https://drive.google.com/file/d/1-PPzny-8DHz4j_n411VWtzc7tawffIz2/view?usp=sharing)
 
-- ⚡ Fun fact **I Think I'm weird (sometimes :p)**
+<!-- - ⚡ Fun fact **I Think I'm weird (sometimes :p)** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/spratham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shukla23" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/spratham](https://www.linkedin.com/in/pratham-singh-253442181/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spratham" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,6 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spratham&show_icons=true&locale=en&layout=compact" alt="spratham" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spratham&show_icons=true&locale=en" alt="spratham" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?user
+  name=spratham&show_icons=true&locale=en" alt="spratham" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spratham&" alt="spratham" /></p>
