@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **Pratham6388@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OcPe_5JChwkz69RQdBk84XM88PDh0huf/view?usp=sharing](https://drive.google.com/file/d/1OcPe_5JChwkz69RQdBk84XM88PDh0huf/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Q_PlLnjIxs08lraVy1gF2F7hcGi7DCUJ/view?usp=sharing](https://drive.google.com/file/d/1Q_PlLnjIxs08lraVy1gF2F7hcGi7DCUJ/view?usp=sharing)
 
 <!-- - ⚡ Fun fact **I Think I'm weird (sometimes :p)** -->
 
