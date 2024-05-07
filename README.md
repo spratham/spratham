@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/spratham](https://www.github.com/spratham)
 
-- 📫 Reach me at **Pratham6388@gmail.com**
+- 📫 Reach me at **Pratham919singh@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Q_PlLnjIxs08lraVy1gF2F7hcGi7DCUJ/view?usp=sharing](https://drive.google.com/file/d/1Q_PlLnjIxs08lraVy1gF2F7hcGi7DCUJ/view?usp=sharing)
 
